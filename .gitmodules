@@ -1,0 +1,3 @@
+[submodule "gha-test-lib"]
+	path = gha-test-lib
+	url = https://github.com/eranrund/gha-test-lib.git
